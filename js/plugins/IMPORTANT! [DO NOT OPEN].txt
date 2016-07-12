@@ -1,0 +1,6 @@
+'Costume Switching'
+common event
+true
+true
+5
+this.callCommonEvent.bind(this)

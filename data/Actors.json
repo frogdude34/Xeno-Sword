@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"Char","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"char1face","traits":[{"code":41,"dataId":1,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Daniel","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":1,"characterName":"Char","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"char2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Casey","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":2,"characterName":"Char","classId":3,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"ComfortFace","traits":[{"code":43,"dataId":12,"value":1},{"code":43,"dataId":17,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Comfort","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"Char 2","classId":4,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"OscarFace","traits":[{"code":43,"dataId":15,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Oscar","nickname":"","note":"","profile":""}
+]
